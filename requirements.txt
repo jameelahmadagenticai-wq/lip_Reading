@@ -1,0 +1,9 @@
+av==16.1.0
+ipython==9.10.1
+matplotlib==3.10.9
+mediapipe==0.10.33
+numpy==2.4.4
+opencv-contrib-python==4.13.0.92
+streamlit==1.56.0
+streamlit-webrtc==0.64.0
+tensorflow==2.21.0
